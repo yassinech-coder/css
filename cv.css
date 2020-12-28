@@ -1,0 +1,92 @@
+body {
+	color: black;
+  background-color: #f5d49f;
+  width :1335px;
+  font-style: italic;
+  font-weight: 200;
+  text-align: center;
+  font-family: Georgia;
+   }
+  ul{
+  	 border-style: solid;
+  border-color: black;
+text-align: right;	
+  background-color: black;
+
+  }
+
+h1,p{
+	  text-align: center;
+	  color: purple;
+	  text-decoration: underline;
+	  font-size: 70%;
+
+}
+
+h1{
+text-align: left;
+color: white;
+font-size: 300%;
+}
+h2 {
+	  background-color: grey;
+	  color: white;
+	  text-align: left;
+
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+input[type="text"] {
+  width: 35%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+input[type="Email"] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+input[type="Message"] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+header {
+  width: auto;
+  background: darkgrey;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  margin: 0px;
+}
+footer,element{
+	color: black;
+}
